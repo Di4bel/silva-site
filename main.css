@@ -1,0 +1,17 @@
+h1,
+p,
+h2 {
+    color: violet;
+}
+
+div h2 {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+#Hello {
+    color: green;
+}
